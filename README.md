@@ -138,7 +138,7 @@ iOS开发工程师
 项目中用到的组件
 -----
 
-1.开源组件
+### 1.开源组件
 | 项目名称 | 项目信息 |
 | ---- | ----- | 
 | [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 网络请求组件 |
@@ -154,7 +154,7 @@ iOS开发工程师
 | [AFPopupView](https://github.com/AlvaroFranco/AFPopupView) | 卡片式弹出效果组件 |
 | [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress) | WebView请求进度组件 |
 
-2.集成的第三方平台
+### 2.集成的第三方平台
 | 平台名称 |
 | ---- |
 | 微信 |
