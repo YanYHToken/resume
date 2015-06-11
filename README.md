@@ -11,25 +11,25 @@ iOS开发工程师
 
 专业技能
 -----
-1.熟练Objective-c语言，了解C；<br />
-2.熟练使用各种主流开源框架，如SDWebimage，ASIHTTPRequest，AFNetworking，EGOCache,EGOTableViewPullRefresh等，了解SDWebimage缓存机制；<br />
-3.熟练掌握CocoaPods第三方库依赖工具的安装与使用；<br />
-4.熟练掌握FMDB的使用，了解CoreData、realm；<br />
-5.熟练掌握iOS的API，理解iOS开发体系的结构，掌握自定义UI以及不同版本与机型的适配；<br />
-6.熟练掌握MVC设计模式并颇有研究；<br />
-7.熟悉GCD，Block等开发技巧，并应用于项目优化中；<br />
-8.熟悉iOS下的通信机制，有网络编程经验；<br />
-9.熟悉蓝牙通讯模块，有硬件接入、sdk编写相关经验；<br />
-10.对swift稍有研究；<br />
-11.对js交互稍有研究。<br />
+1.熟练使用Storyboard、xib、code方式进行开发；<br />
+2.熟练掌握各种第三方xcode插件的使用，提升开发效率；<br />
+3.熟悉GCD，Block等开发技巧，并应用于项目优化中；<br />
+4.熟悉蓝牙通讯模块，有硬件接入、sdk编写相关经验；<br />
+5.熟悉TableView信息流数据优化方式；<br />
+6.熟练掌握多媒体应用开发的方式；<br />
+7.熟练使用iOS各版本的SDK进行App开发；<br />
+7.熟练掌握Objective-c语言，了解swift；<br />
+8.熟练使用各种主流开源框架；<br />
+9.熟练使用Git版本控制工具；<br />
+9.熟练掌握MVC设计模式、单例模式，代理和协议；<br />
+10.具有良好的编码习惯,代码的可复⽤性⾼,了解⾯向对象的编程思想；<br />
 
-    技术能力:代码重构、阅读代码的能力得到了极大地提升，
+    技术能力:代码重构、阅读代码的能力极大地提升，
             除了对多个类解耦合外，
             还对一些常用到的自定义控件进行类封装处理
             为实现理想中轻量化的ViewController更进一步。
             
     开源项目:利用工作和生活的间隙阅读与理解开源代码，
-            如SDWebImage，DAKeyboardControl，Canvas，URBMediaFocusViewController，EGOTableViewPullRefresh等等，
             将其应用到项目中并根据项目的具体需求进行结构和功能的扩展，
             并在这个过程中大大提高了自己代码的编写能力。
               
@@ -37,7 +37,7 @@ iOS开发工程师
 自我评价
 -----
 
-谦虚、友好，善于思考、解决问题，热爱移动开发、移动互联网事业，渴望进步，了解并关心用户体验，智能手机达人、三大系统通用型用户、刷机狂，善于使用各种工具，不把问题解决了睡不着觉类型，始终坚信“没有学不会的技术，只有不努力的屌丝”。
+谦虚、友好，善于思考、解决问题，热爱移动开发、移动互联网事业，渴望进步，了解并关心用户体验，善于使用各种工具，不把问题解决了睡不着觉类型，始终坚信“没有学不会的技术，只有不努力的屌丝”。
 
 
 
@@ -52,10 +52,10 @@ iOS开发工程师
 
 工作经历
 -----
-### 北京互爱科技有限公司（胡莱游戏），智能硬件组，iOS开发工程师 — 2014.08-今
+### 北京互爱科技有限公司（胡莱游戏），智能硬件组、摩擦项目组，iOS开发工程师 — 2014.08-今
     工作职责：
     
-    负责乐跑Pro、乐跑健康秤、壹修智能珠、乐跑血压计的研发工作，并协同产品制定需求、功能可行性、估算项目开发周期
+    负责摩擦、乐跑Pro、乐跑健康秤、壹修智能珠、乐跑血压计的研发工作，并协同产品制定需求、功能可行性、估算项目开发周期
 
     工作业绩：
     
@@ -75,6 +75,16 @@ iOS开发工程师
     3.其中主要用到蓝牙相关技术，根据硬件方面提供的通讯协议来实现软硬件之间通讯，把硬件测量出的数据展示、本地化并上传服务器
     4.职责描述：核心功能开发，硬件接入sdk编写，后期维护，版本迭代。
     
+    壹修智能珠
+    开发时间：2015-3月-今
+    项目描述
+    1.蓝⽛4.0通信技术,通过蓝牙4.0与硬件设备进行通信,实现数据的读取和各个功能的设置。
+    2.使用CoreGraphics框架实现对数据的现实,包括柱状图和折线图。
+    3.Sqlite实现数据的本地化存储。
+    4.下载地址：暂无，还未上线。
+    5.核心技术是与硬件交互，对数据的处理以及展示并上传服务器。
+    6.职责描述：软件端下发数据处理，设置模块编写，数据同步，交互动画处理。
+
     乐跑血压计
     开发时间：2014/10-2014/11
     项目描述：
@@ -83,13 +93,7 @@ iOS开发工程师
     3.其中技术核心为数据展示的实现
     4.职责描述：注册登录模块的编写
 
-    壹修智能珠
-    开发时间：2015-3月-今
-    项目描述
-    1.硬件配套App
-    2.下载地址：暂无，还未上线
-    3.核心技术是与硬件交互，对数据的处理以及展示并上传服务器
-    4.职责描述：软件端下发数据处理，设置模块编写，数据同步，交互动画处理
+    
     
 
 ### 音悦台，P2SP部门，iOS开发工程师 — 2013.04-2014.08
@@ -129,3 +133,34 @@ iOS开发工程师
 北京吉利大学 — 本科，2013级毕业生<br />
 专业：机电一体化工程
     
+
+
+项目中用到的组件
+-----
+
+1.开源组件
+| 项目名称 | 项目信息 |
+| :----: | :-----: | 
+| [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 网络请求组件 |
+| [FMDB](https://github.com/ccgus/fmdb) | 数据库组件 |
+| [SDWebImage](https://github.com/rs/SDWebImage) | 图片加载、缓存组件 |
+| [MBProgressHUD](https://github.com/jdg/MBProgressHUD) | loading、提示框组件 |
+| [MJRefresh](https://github.com/CoderMJLee/MJRefresh) | 下拉刷新、上拉加载更多组件 |
+| [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) | 响应式编程框架 | 
+| [URBMediaFocusViewController](https://github.com/u10int/URBMediaFocusViewController) | 单一照片查看器，虚化背景 |
+| [CCLogSystem](https://github.com/yechunjun/CCLogSystem) | log日志打印、本地化 |
+| [JXBAdPageView](https://github.com/JxbSir/JXBAdPageView) | banner无限轮播组件 |
+| [SDPhotoBrowser](https://github.com/gsdios/SDPhotoBrowser) | 多图片浏览器器组件 |
+| [AFPopupView](https://github.com/AlvaroFranco/AFPopupView) | 卡片式弹出效果组件 |
+| [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress) | WebView请求进度组件 |
+
+2.集成的第三方平台
+| 平台名称 |
+| :----: |
+| 微信 |
+| 易信 |
+| 腾讯互联 |
+| 新浪微博 |
+| 友盟反馈 |
+| 极光推送 |
+| 高德地图 |
