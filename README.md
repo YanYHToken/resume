@@ -140,7 +140,7 @@ iOS开发工程师
 
 1.开源组件
 | 项目名称 | 项目信息 |
-| :----: | :-----: | 
+| ---- | ----- | 
 | [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 网络请求组件 |
 | [FMDB](https://github.com/ccgus/fmdb) | 数据库组件 |
 | [SDWebImage](https://github.com/rs/SDWebImage) | 图片加载、缓存组件 |
@@ -156,7 +156,7 @@ iOS开发工程师
 
 2.集成的第三方平台
 | 平台名称 |
-| :----: |
+| ---- |
 | 微信 |
 | 易信 |
 | 腾讯互联 |
